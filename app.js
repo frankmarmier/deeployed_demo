@@ -12,7 +12,7 @@ const usersRouter = require("./routes/users");
 
 const app = express();
 
-console.log(foo.bar.baz);
+// console.log(foo.bar.baz);
 
 // view engine setup
 app.set("views", path.join(__dirname, "views"));
